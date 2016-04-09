@@ -1,0 +1,17 @@
+commit fa1c53f39771c3cae5ceb1dd8e0d26bd71eb42cf
+Author: andrés naranjo <proyectonet03@hotmail.com>
+Date:   Sat Apr 9 10:01:24 2016 -0500
+
+    Se ingresa el título de la página
+
+commit 8da6e4ef7803f055a645c130193811dcdfdfdf70
+Author: andrés naranjo <proyectonet03@hotmail.com>
+Date:   Sat Apr 9 09:59:00 2016 -0500
+
+    se crea el header de la página
+
+commit 59efb248f9352a37266e4b5a3e0378e17b7d610a
+Author: andres naranjo <afnarqui@hotmail.com>
+Date:   Sat Apr 9 09:36:22 2016 -0500
+
+    Versión inicial
